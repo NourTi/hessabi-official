@@ -1,0 +1,2 @@
+b06713c75b1017021965954b66ee1ded3dcc6187e24685f4dbfad98ee3156265  hessabi-v0.1.0-android-debug.apk
+f714b1db59648123e0d7de5b80d7ef775b39d3104be674bc96fef9980b466aee  hessabi-v0.1.0-browser.zip
